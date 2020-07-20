@@ -13,7 +13,7 @@ export const GifExpertApp = () => {
     return (
         <>
             
-            <h1>GifExpertApp</h1>
+            <h1 className="animate__flipInX">GifExpertApp</h1>
             <AddCategory setCategories={setCategories} />
             <hr />
             <ol>
