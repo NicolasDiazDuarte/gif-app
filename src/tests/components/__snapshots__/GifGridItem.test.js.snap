@@ -1,3 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Pruebas en <GifGridItem /> Debe mostrar el componente correctamente 1`] = `ShallowWrapper {}`;
+exports[`Pruebas en <GifGridItem /> Debe mostrar el componente correctamente 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="un titulo"
+    src="https://localhost/algo.png"
+  />
+  <p>
+    un titulo
+  </p>
+</div>
+`;
